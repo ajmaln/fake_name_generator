@@ -9,3 +9,7 @@ BeautifulSoup
 urllib
 
 Outputs a file with a number of names and their gender as per the user input
+
+```
+pip install BeautifulSoup urllib
+```
